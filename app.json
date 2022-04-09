@@ -11,7 +11,7 @@
 "required":true},
 "CODE":{
 "description":"ENTER THE NORDED KEY BY @KrakinzBot .....",
-"required":true},
+"required": false },
 "API_HASH":{
 "description":"api_hash part of your Telegram API Key From @HVApiBot Only",
 "required":true},
