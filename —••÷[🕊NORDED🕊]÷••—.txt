@@ -1,15 +1,15 @@
-pytgcalls
-requests
-youtube_search
-youtube_dl
-wheel
-TgCrypto
-pyrogram
-heroku3
-ffmpeg-python
-urllib3
-termcolor
-loguru
-python-dotenv
-pyromod
-pyAesCrypt
+pytgcalls == 2.1.0
+requests == 2.27.1
+youtube-search == 2.1.0
+youtube_dl >= 2021.12.17
+wheel >= 0.37.1
+TgCrypto == 1.2.3
+pyrogram >= 1.4.12
+heroku3 == 5.1.4
+ffmpeg-python == 0.2.0
+urllib3 == 1.26.9
+termcolor>= 1.1.0
+loguru >= 0.6.0
+python-dotenv >= 0.20.0
+pyromod >= 1.5
+pyAesCrypt >= 6.0.0
